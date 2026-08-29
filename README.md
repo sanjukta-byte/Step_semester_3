@@ -2,12 +2,63 @@
 
 This repository contains my Java programming work completed during STEP Semester 3.
 
-The repository follows the required Git branching structure:
+## Branch Structure
+
+The repository follows a session-based Git branching structure:
 
 - `main` - README and progress documentation
-- `develop` - base Java project structure
+- `develop` - Base development branch
 - `feature/session_1` - Session 1 Java programs
 - `feature/session_2` - Session 2 Java programs
+- `feature/session_4` - Session 4 Java programs
+
+> Week 3 content was skipped as instructed.
+
+---
+
+# Session 4
+
+### Date: 29-08-2026
+
+## Today's Work
+
+- Completed Week 4 Java programming problems.
+- Practiced array manipulation and problem-solving techniques.
+- Practiced nested loops and array traversal.
+- Practiced two-pointer techniques.
+- Practiced prefix and suffix products.
+- Practiced prefix sums using `HashMap`.
+- Practiced Kadane's algorithm for maximum subarray sum.
+- Practiced sorting with two-pointer techniques.
+- Practiced binary search on rotated sorted arrays.
+- Completed the following class/practice problems:
+  - Two Sum
+  - Best Time to Buy and Sell Stock
+  - Contains Duplicate
+  - Merge Two Sorted Arrays
+  - Rotate Array
+- Completed the following assignment problems:
+  - Product of Array Except Self
+  - Maximum Subarray
+  - 3Sum
+  - Subarray Sum Equals K
+  - Find Minimum in Rotated Sorted Array
+- Tested the programs and verified their outputs using Visual Studio Code.
+
+## Next Session Plan
+
+- Continue with the next assigned Java programming session.
+- Apply the array and problem-solving techniques learned in Session 4 to upcoming problems.
+
+## Issues Faced
+
+- Faced a `ClassNotFoundException` while executing a Java program from the project root directory.
+- Resolved the issue by navigating to the directory containing the Java source file before compiling and executing it.
+- Used the following compilation and execution process in the VS Code terminal:
+
+```text
+javac FileName.java
+java FileName
 
 ---
 
