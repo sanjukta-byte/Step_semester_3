@@ -52,31 +52,6 @@ The repository follows a session-based Git branching structure:
 4. Match Day Grid Analyzer — Intermediate
 5. Fantasy League Auto-Draft Ranking Engine — Advanced
 
-## Concepts Practiced
-
-- One-dimensional arrays
-- Two-dimensional arrays
-- Jagged arrays
-- Array traversal
-- Nested loops
-- In-place array modification
-- Duplicate detection
-- Finding minimum and maximum values
-- Finding top three values
-- Row averages
-- Helper methods
-- Method overloading
-- Static methods
-- Constructors
-- Encapsulation
-- `Comparable`
-- `compareTo()`
-- `Arrays.toString()`
-- `Arrays.copyOf()`
-- `Arrays.sort()`
-- Object arrays
-- Ranking and filtering
-
 ## Next Session Plan
 
 - Continue with the next assigned Java programming session.
