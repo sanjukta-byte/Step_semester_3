@@ -11,8 +11,80 @@ The repository follows a session-based Git branching structure:
 - `feature/session_1` - Session 1 Java programs
 - `feature/session_2` - Session 2 Java programs
 - `feature/session_4` - Session 4 Java programs
+- `feature/session_5` - Session 5 Java programs
 
 > Week 3 content was skipped as instructed.
+
+---
+
+# Session 5
+
+## Today's Work
+
+- Completed Week 5 Java programming problems.
+- Practiced one-dimensional arrays and array manipulation.
+- Practiced modifying arrays directly using methods.
+- Practiced nested loops for duplicate detection.
+- Practiced finding the top three values without sorting.
+- Practiced two-dimensional and jagged arrays.
+- Practiced helper methods for reusable calculations.
+- Practiced method overloading.
+- Practiced constructors and encapsulation.
+- Practiced implementing the `Comparable` interface.
+- Practiced `compareTo()` for custom object ranking.
+- Practiced using `Arrays.toString()`.
+- Practiced using `Arrays.copyOf()`.
+- Practiced using `Arrays.sort()`.
+
+### Class Problems
+
+1. Hackathon Score Curve Booster — Easy
+2. Duplicate Team Name Finder — Easy
+3. Top-3 Podium Finder — Intermediate
+4. Hackathon Seating Grid Optimizer — Intermediate
+5. Placement Drive Shortlisting & Ranking Engine — Advanced
+
+### Assignment Problems
+
+1. Fantasy Team Score Multiplier — Easy
+2. Duplicate Player Pick Checker — Easy
+3. Top Performer Tracker — Intermediate
+4. Match Day Grid Analyzer — Intermediate
+5. Fantasy League Auto-Draft Ranking Engine — Advanced
+
+## Concepts Practiced
+
+- One-dimensional arrays
+- Two-dimensional arrays
+- Jagged arrays
+- Array traversal
+- Nested loops
+- In-place array modification
+- Duplicate detection
+- Finding minimum and maximum values
+- Finding top three values
+- Row averages
+- Helper methods
+- Method overloading
+- Static methods
+- Constructors
+- Encapsulation
+- `Comparable`
+- `compareTo()`
+- `Arrays.toString()`
+- `Arrays.copyOf()`
+- `Arrays.sort()`
+- Object arrays
+- Ranking and filtering
+
+## Next Session Plan
+
+- Continue with the next assigned Java programming session.
+- Apply array, object-oriented programming, and problem-solving techniques learned in Session 5.
+
+## Issues Faced
+
+- None.
 
 ---
 
