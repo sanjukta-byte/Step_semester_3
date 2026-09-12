@@ -12,8 +12,49 @@ The repository follows a session-based Git branching structure:
 - `feature/session_2` - Session 2 Java programs
 - `feature/session_4` - Session 4 Java programs
 - `feature/session_5` - Session 5 Java programs
+- `feature/session_6` - Session 6 Java programs
 
 > Week 3 content was skipped as instructed.
+
+---
+
+# Session 6
+
+## Today's Work
+
+- Completed Week 6 Java programming problems.
+- Access Modifiers – Understood private, default, protected, and public visibility.
+- Packages & Inheritance – Learnt how packages and subclasses affect access to members.
+- Encapsulation & Data Hiding – Protected class data by controlling access through methods.
+- Getters & Setters – Followed the JavaBean naming standard for accessing and modifying fields.
+- Read-Only & Write-Only Properties – Controlled whether a field can only be read, only modified, or both.
+- Immutability & final Fields – Built objects whose data cannot be changed after creation using final and proper encapsulation.
+
+
+### Class Problems
+
+1. Student Placement Record Management - Easy
+2. Hostel Mess Wallet Management - Easy
+3. Course Credit Management - Intermediate
+4. Library ID Card Management - Intermediate
+5. Student and College Information Management - Advanced
+
+### Assignment Problems
+
+1. Library Inventory Management — Easy
+2. Payroll Salary Management — Easy
+3. Employee Profile Creation — Intermediate
+4. Exam Hall Ticket Reference Management — Intermediate
+5. Employee and Company Information Management — Advanced
+
+## Next Session Plan
+
+- Continue with the next assigned Java programming session.
+- Apply Access Modifiers, Encapsulation & Object Modeling techniques learned in Session 6.
+
+## Issues Faced
+
+- None.
 
 ---
 
