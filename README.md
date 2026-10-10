@@ -21,7 +21,7 @@ The repository follows a session-based Git branching structure:
 
 # Session 7
 
-### Date: 10-10-2026
+### Date: 26-09-2026
 
 ## Today's Work
 
@@ -64,6 +64,8 @@ The repository follows a session-based Git branching structure:
 
 # Session 6
 
+### Date: 19-09-2026
+
 ## Today's Work
 
 - Completed Week 6 Java programming problems.
@@ -103,6 +105,8 @@ The repository follows a session-based Git branching structure:
 ---
 
 # Session 5
+
+### Date: 05-09-2026
 
 ## Today's Work
 
