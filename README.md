@@ -13,13 +13,58 @@ The repository follows a session-based Git branching structure:
 - `feature/session_4` - Session 4 Java programs
 - `feature/session_5` - Session 5 Java programs
 - `feature/session_6` - Session 6 Java programs
+- `feature/session_7` - Session 7 Java programs
 
 > Week 3 content was skipped as instructed.
 
 ---
 
+# Session 7
+
+### Date: 19-09-2026
+
+## Today's Work
+
+- Completed Week 7 Java programming problems on Object-Oriented Programming (OOP) Introduction.
+- Practiced encapsulation and data hiding using `private` fields.
+- Practiced controlled access to data using methods.
+- Practiced the use of `final` fields for values that should not change.
+- Practiced constructors for initializing objects.
+- Practiced input validation and maintaining valid object states.
+- Practiced defensive copying to protect internal array data.
+- Completed the following class/practice problems:
+  - PiggyBank
+  - Scorecard
+  - NameTag
+  - Locker
+  - AttendanceSheet
+- Completed the following assignment problems:
+  - Character
+  - Playlist
+  - PasswordChecker
+  - TrafficLight
+  - Cart
+- Compiled and tested the programs using the CMD terminal.
+- Organized the programs into `class_problems` and `assigment_problems` folders under `session_7/OOP Introduction`.
+
+## Next Session Plan
+
+- Continue with the next assigned Java programming session.
+- Apply encapsulation, data hiding, and access control concepts to upcoming OOP problems.
+- Practice writing classes that protect their data and validate changes.
+
+## Issues Faced
+
+- Organized Java source files into folders containing spaces in their names.
+- Used quotation marks in CMD commands to navigate to and compile files inside the `OOP Introduction` directory.
+- Configured `.gitignore` to exclude compiled `.class` files from Git tracking.
+- Used `javac` to compile the Java programs and `java` to execute them individually.
+
+---
+
 # Session 6
 
+### Date: 12-09-2026
 ## Today's Work
 
 - Completed Week 6 Java programming problems.
@@ -59,6 +104,8 @@ The repository follows a session-based Git branching structure:
 ---
 
 # Session 5
+
+### Date: 05-09-2026
 
 ## Today's Work
 
