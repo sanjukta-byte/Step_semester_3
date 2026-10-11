@@ -14,14 +14,56 @@ The repository follows a session-based Git branching structure:
 - `feature/session_5` - Session 5 Java programs
 - `feature/session_6` - Session 6 Java programs
 - `feature/session_7` - Session 7 Java programs
+- `feature/session_8` - Session 8 Java programs
 
 > Week 3 content was skipped as instructed.
 
 ---
 
-# Session 7
+# Session 8
 
 ### Date: 26-09-2026
+
+## Today's Work
+
+- Completed Week 8 Java programming problems on Object-Oriented Programming (OOP).
+- Practiced polymorphism using interfaces and implementing classes.
+- Practiced defining common operations for different types of objects.
+- Practiced method overriding to implement different calculation rules.
+- Practiced processing different object types through a common interface.
+- Practiced using `LocalDate` and `plusDays()` for date calculations.
+- Practiced formatted output using `System.out.printf()` and two decimal places.
+- Completed the following class/practice problems:
+  - Payment System Fee Calculation
+  - Library Item Due Date Calculator
+  - Delivery Fee Calculator
+  - Examination Question Grader
+  - Public Transport Fare Calculator
+- Completed the following assignment problems:
+  - The Canteen Billing Counter
+  - The Campus Parking Charge Calculator
+  - The Hostel Electricity Bill
+  - The Festival Bonus Calculator
+  - The Streaming Plan Renewal Reminder
+- Compiled and tested the programs using the CMD terminal.
+- Organized the programs into `class_problems` and `assigment_problems` folders under `session_8/OOP Polymorphism`.
+
+## Next Session Plan
+
+- Continue with the next assigned Java programming session.
+- Apply polymorphism, interfaces, and method overriding to upcoming OOP problems.
+- Practice designing classes that implement common operations with different business rules.
+
+## Issues Faced
+
+- Checked the sample outputs against the business rules and identified arithmetic inconsistencies in the Delivery Fee Calculator question.
+- Verified the delivery fees using the specified formulas.
+
+---
+
+# Session 7
+
+### Date: 19-09-2026
 
 ## Today's Work
 
@@ -64,7 +106,7 @@ The repository follows a session-based Git branching structure:
 
 # Session 6
 
-### Date: 19-09-2026
+### Date: 12-09-2026
 
 ## Today's Work
 
