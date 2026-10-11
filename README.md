@@ -15,8 +15,49 @@ The repository follows a session-based Git branching structure:
 - `feature/session_6` - Session 6 Java programs
 - `feature/session_7` - Session 7 Java programs
 - `feature/session_8` - Session 8 Java programs
+- `feature/session_9` - Session 9 Java programs
 
 > Week 3 content was skipped as instructed.
+
+---
+
+# Session 9
+
+### Date: 03-10-2026
+
+## Today's Work
+
+- Completed Week 9 Java programming problems on Object-Oriented Programming (OOP) Abstraction.
+- Practiced creating abstract classes and abstract methods.
+- Practiced implementing abstraction using inheritance and method overriding.
+- Practiced using interfaces to define common behavior.
+- Practiced calculating values using different implementations of abstract methods.
+- Practiced using `final` constants and common methods in abstract classes.
+- Completed class/practice problems:
+  - Garden Plot Area Calculator
+  - Weekly Staff Pay Calculator
+  - Library Late Fine Calculator
+  - Electricity Billing System
+  - Travel Booking Fare Calculator
+- Completed assignment problems:
+  - Movie Ticket Booking System
+  - Parcel Shipping and Insurance Calculator
+  - College Fee Calculator
+  - City Cab Fare Calculator
+  - Appliance Energy Consumption Calculator
+- Organized programs under `session_9/OOP Abstraction`.
+- Compiled and tested the programs using Java in CMD.
+- Ensured `.class` files are excluded using `.gitignore`.
+
+## Next Session Plan
+
+- Continue practicing Object-Oriented Programming concepts.
+- Apply abstraction, inheritance, interfaces, and method overriding in Java programs.
+
+## Issues Faced
+
+- Practiced handling different calculation rules through abstract methods and overridden methods.
+- Checked program outputs against the given formulas and sample inputs.
 
 ---
 
