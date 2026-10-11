@@ -16,8 +16,57 @@ The repository follows a session-based Git branching structure:
 - `feature/session_7` - Session 7 Java programs
 - `feature/session_8` - Session 8 Java programs
 - `feature/session_9` - Session 9 Java programs
+- `feature/session_10` - Session 10 Java programs
 
 > Week 3 content was skipped as instructed.
+
+---
+
+# Session 10
+
+### Date: 10-10-2026
+
+## Today's Work
+
+- Completed Week 10 Java programming problems on Data Structures and Algorithms (DSA).
+- Practiced string manipulation using character traversal and `StringBuilder`.
+- Practiced counting even and odd numbers using arrays.
+- Practiced in-place array reversal using two pointers.
+- Practiced digit sum, number reversal, prime checking, and factorial calculation.
+- Practiced conditional statements for grade assignment and leap year detection.
+- Practiced object-oriented programming by generating student result cards.
+- Completed class problems:
+  - Vowel and Consonant Counter
+  - Word Reverser and Palindrome Checker
+  - Even and Odd Numbers in a List
+  - In-Place Array Reversal
+  - Digit Sum and Number Reversal
+  - Prime Number Checker
+  - Factorial Calculation
+  - Student Grade Assignment
+  - Leap Year Detector
+  - Student Result Card Generator
+- Completed assignment problems:
+  - Busiest Bus Row
+  - Class Attendance Tracker
+  - Duty Roster Rotation
+  - Exam Score Band Counter
+  - Second-Best Score
+- Practiced two-dimensional arrays, modular arithmetic, and binary search.
+- Practiced time and auxiliary space complexity analysis.
+- Compiled and tested Java programs using CMD.
+
+## Next Session Plan
+
+- Continue practicing DSA concepts and linear data structures.
+- Improve problem-solving skills using arrays, linked lists, stacks, and queues.
+- Practice algorithm efficiency and complexity analysis.
+
+## Issues Faced
+
+- Practiced handling duplicate values and boundary conditions in array problems.
+- Used binary search to count scores within a specified range efficiently.
+- Verified array rotation and second-highest distinct score calculations.
 
 ---
 
@@ -47,7 +96,6 @@ The repository follows a session-based Git branching structure:
   - Appliance Energy Consumption Calculator
 - Organized programs under `session_9/OOP Abstraction`.
 - Compiled and tested the programs using Java in CMD.
-- Ensured `.class` files are excluded using `.gitignore`.
 
 ## Next Session Plan
 
